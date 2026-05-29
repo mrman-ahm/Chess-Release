@@ -1,7 +1,25 @@
 Chess Release - Download and Play Instructions
 =============================================
 
-This game is a Windows release build. It uses Git LFS for the large Stockfish engine file, so make sure Git LFS is installed before downloading the repo.
+This game is a Windows release build.
+
+Easiest Download
+----------------
+
+Download the complete ZIP here:
+
+https://github.com/mrman-ahm/Chess-Release/releases/latest/download/Chess-Release-Windows.zip
+
+Then:
+
+1. Extract the ZIP file.
+2. Open the RELEASE folder.
+3. Double-click chess.exe.
+
+Git Download
+------------
+
+If you want to clone the repo instead, it uses Git LFS for the large Stockfish engine file. Make sure Git LFS is installed before downloading the repo.
 
 Requirements
 ------------
