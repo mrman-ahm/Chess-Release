@@ -1,0 +1,43 @@
+Chess Release - Download and Play Instructions
+=============================================
+
+This game is a Windows release build. It uses Git LFS for the large Stockfish engine file, so make sure Git LFS is installed before downloading the repo.
+
+Requirements
+------------
+
+- Windows
+- Git: https://git-scm.com/downloads
+- Git LFS: https://git-lfs.com/
+
+Commands
+--------
+
+Run these commands in PowerShell or Command Prompt:
+
+git lfs install
+git clone https://github.com/mrman-ahm/Chess-Release.git
+cd Chess-Release
+git lfs pull
+cd RELEASE
+.\chess.exe
+
+Alternative Launch
+------------------
+
+After cloning and running "git lfs pull", you can also open the RELEASE folder and double-click chess.exe.
+
+Updating Later
+--------------
+
+To download future updates:
+
+cd Chess-Release
+git pull
+git lfs pull
+
+Notes
+-----
+
+- Keep the files inside the RELEASE folder together. The game needs the included DLLs, audio, sprites, data, and Stockfish files.
+- If chess.exe does not open, make sure Git LFS is installed and run "git lfs pull" again from inside the Chess-Release folder.
