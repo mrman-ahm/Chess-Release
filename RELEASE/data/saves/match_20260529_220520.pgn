@@ -1,0 +1,18 @@
+[Event "Casual Match"]
+[Site "Local Machine"]
+[Date "2026.05.29"]
+[Round "1"]
+[White "Player 1"]
+[Black "Player 2"]
+[GameMode "Local"]
+[WhiteAvatar "Sprites/Avatars/Diversity-Avatars-Avatars-Native-woman.512.png"]
+[BlackAvatar "Sprites/Avatars/Diversity-Avatars-Avatars-Girl-in-ballcap.512.png"]
+[Result "1/2-1/2"]
+[WhiteTime "600"]
+[BlackTime "600"]
+[TimeControl "600"]
+[IncrementTime "0"]
+[DelayTime "0"]
+[ReviewPly "1"]
+
+1. e2-e4

@@ -1,0 +1,28 @@
+# User Preferences
+menu_preset=Preset 1
+board_tile_theme=High Contrast
+board_background=Blue
+board_perspective=Black
+cursor_style=C2
+fahh_mode=Off
+menu_sounds=On
+game_sounds=On
+piece_mode=Set
+piece_set=Set 1
+piece_custom_pawn=Set 4
+piece_custom_knight=Set 4
+piece_custom_bishop=Set 4
+piece_custom_rook=Set 4
+piece_custom_queen=Set 4
+piece_custom_king=Set 4
+
+# Player Clocks (in seconds)
+time_control=600
+increment_time=0
+delay_time=0
+
+# Player Statistics
+white_wins=9
+black_wins=1
+draws=1
+total_games=11
